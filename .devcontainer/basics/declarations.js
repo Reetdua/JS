@@ -17,6 +17,6 @@ console.table([name,id,mobile,city,name])
 
 //lets try to change each one
 name = "sneha"
-mobile=09876543
+mobile= 9876543
 city="panipat"
 console.table([name,id,mobile,city,name])

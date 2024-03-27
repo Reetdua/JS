@@ -51,4 +51,4 @@ console.log(url.includes('sundar'))     //checks if a substring is present = fal
 
 //SPLITTING
 console.log(url.split('/'));       //SLITS THE STRING AFTER A PARTICULAR CHARACTER
-                                        //returns in a form of array ['string' ,'string']
+                                   //returns in a form of array ['string' ,'string']
