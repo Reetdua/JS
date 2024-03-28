@@ -4,7 +4,7 @@ const name = "reet"
 const repoCount = 50
 console.log(name + repoCount + " Value")   //Outdated version to concat strings
 
-/**********************************************************************************************************************************************************************/
+/***********************************************************String Interpolation***********************************************************************************************************/
 
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`)      
 //Proffesional console.log(`string ${variable} string`)
